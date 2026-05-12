@@ -122,3 +122,52 @@ The long-term goal is to evolve the system into:
 - a broader investment analytics ecosystem
 - a portfolio intelligence platform
 - a more advanced quantitative analysis environment for retail investors
+
+## Screenshots
+
+### Dashboard/Home Page
+
+<p align="center">
+  <img src="images/dashboard.png" width="100%">
+</p>
+
+### Fund Analysis Page
+
+<p align="center">
+  <img src="images/fund-analysis.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/fund-analysis-2.png" width="100%">
+</p>
+<p align="center">
+  <img src="images/portfolio-3.png" width="100%">
+</p>
+
+### Watchlist
+<p align="center">
+  <img src="images/watchlist.png" width="100%">
+</p>
+
+### Compare Funds
+<p align="center">
+  <img src="images/compare-funds.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/compare-funds-2.png" width="100%">
+</p>
+
+### Portfolio
+<p align="center">
+  <img src="images/portfolio-1.png" width="100%">
+</p>
+<p align="center">
+  <img src="images/portfolio-2.png" width="100%">
+</p>
+
+### User Dashboard
+
+ <p align="center">
+  <img src="images/user-dashboard.png" width="100%">
+</p>
